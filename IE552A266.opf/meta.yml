@@ -1,0 +1,16 @@
+id: IE552A266
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:27:40.468951
+last_modified: 2023-02-08 15:27:40.469080
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: bo
+bases:
+  '8319':
+    base_file: 8319.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
